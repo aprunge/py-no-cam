@@ -1,5 +1,5 @@
 
-# py_no_cam
+# py-no-cam
 A small and lightweight Python application that disables all attached cameras. The purpose is:
 - To allow people to disable their cameras without having to use their BIOS or UEFI tool.
 - Make it easy to enable (and disable)
